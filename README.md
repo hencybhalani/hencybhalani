@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+
 <h1 align="center">Hi 👋, I'm Hensi Bhalani</h1>
 <h3 align="center">A passionate Web Developer.</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hencybhalani" alt="hencybhalani" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@iamhency1" target="blank"><img src="https://img.shields.io/twitter/follow/@iamhency1?logo=twitter&style=for-the-badge" alt="@iamhency1" /></a> </p>
 
@@ -41,5 +39,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hencybhalani&show_icons=true&locale=en&layout=compact" alt="hencybhalani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hencybhalani&" alt="hencybhalani" /></p>
-
-
