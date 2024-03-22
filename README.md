@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Hensi Bhalani</h1>
 <h3 align="center">A passionate Web Developer.</h3>
 
-- 🌱 I’m currently learning **.Net core**
+- 🌱 I’m currently learning **.Net core,React,Redux,.Net Core,Java**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React,Redux,.Net Core,Java**
 
 - 📫 How to reach me **hencybhalani@gmail.com**
 
